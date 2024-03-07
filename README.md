@@ -1,4 +1,4 @@
-# TeachMeSkills_C26_Lesson_6_HW
+# TeachMeSkills_C27_Lesson_6_HW
 Homework for the sixth lesson
 
  Task 1
